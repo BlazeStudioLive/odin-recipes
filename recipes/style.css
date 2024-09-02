@@ -1,0 +1,29 @@
+* {
+    background-color: lightgray;
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+    color: navy;
+}
+
+h2 {
+    text-decoration-line:overline underline;
+    text-decoration-style:dashed;
+}
+
+ul {
+    list-style:square;
+}
+
+ol {
+    list-style-type:upper-roman;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
